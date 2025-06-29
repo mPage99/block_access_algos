@@ -59,13 +59,13 @@ The **first number** is treated as the starting disk head position.
 ### 🔧 Build and Run
 
 1. **Build the executable (using bash):**
-
+```
 make
-
+```
 2. ** Run the simulator**
-
+```
 ./run_sim block-list.txt
-
+```
 Example Output (This will also generate the .csv step files for each algorithm):
 
 FCFS Total Seek: 180
