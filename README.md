@@ -28,11 +28,13 @@ Understanding both values is important to visualize how much the head moves and 
 
 ## 📂 File Structure
 ```
-├── block-list.txt # Example input file with disk block requests
-├── run_sim # Compiled executable (after using make)
-├── Makefile # Build automation file
+project-root/
+├── Makefile           # Build automation script
+├── README.md          # Project documentation
+├── block-list.txt     # Input file with disk block requests
+├── block_algos.c      # Core implementation of disk scheduling algorithms
+├── run_sim            # Compiled executable (generated after build)
 ```
-
 ## 🚀 Getting Started
 
 ### Prerequisites
