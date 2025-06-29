@@ -27,11 +27,11 @@ Understanding both values is important to visualize how much the head moves and 
 - Integrates with an API that visualizes simulation results as interactive graphs
 
 ## 📂 File Structure
-
+```
 ├── block-list.txt # Example input file with disk block requests
 ├── run_sim # Compiled executable (after using make)
 ├── Makefile # Build automation file
-
+```
 
 ## 🚀 Getting Started
 
